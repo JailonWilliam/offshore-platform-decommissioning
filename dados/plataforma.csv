@@ -1,8 +1,8 @@
-"platform","water_depth","weight","installation_date","type_of_production (1 oil and gas; 2 oil; 3 gas)","number_of_legs","number_of_piles","height_of_jacket_or_sub-structure","distance_to_coast","risk_to_other_users-complete" ,"risk_to_other_users-partial","risk_to_personnel-complete","risk_to_personnel-partial","energy_consumption-complete","energy_consumption-partial","emissions-complete","emissions-partial","impacts_of_option-complete","impacts_of_option-partial","technical_feasibility_or_challenge-complete","technical_feasibility_or_challenge-partial","commercial_impact_on_fisheries-complete","commercial_impact_on_fisheries-partial","wider_community_impact-complete","wider_community_impact-partial","total_removal_cost-complete","total_removal_cost-partial","removal_type"
-1,99,22000,1988,1,8,8,114,187,1,0,0.29,0.12,1110100,817000,87000,58500,0.43,1,0,1,0.79,0.78,0.5,0.5,1,0.56,"à avaliar"
-2,112,30364,1983,1,8,9,123,207,1,0,0.32,0.16,1180500,895500,92000,64000,0.51,1,0,1,0.79,0.78,0.5,0.5,1,0.56,"à avaliar"
-20,141,15561,1978,2,8,26,147,120,0,0.000025,0.025,0.010,297654,530148,24277,31064,0.66,1,0.25,1,1.0,0.94,1.0,1.0,1,0.54,"à avaliar"
-25,156,27647,1980,2,8,32,166,240,0,0.000015,0.04,0.02,487750,570818,40416,45266,0.53,1,0.64,1,1.0,0.66,1.0,1.0,1,0.57,"à avaliar"
-26,103,18584,1983,3,8,20,122.5,230,0,0.000000078,0.09,0.06,733082,511765,59588,41170,0.53,1,0.39,0.15,1.0,0.99,1.0,1.0,1,0.73,"à avaliar"
-27,144,17500,1983,3,8,20,154,130,0,0.00001335933333,0.14,0.13,520000,568000,42000,44000,0.53,1,0.45,0.7,1.0,1.0,1.0,1.0,1,0.66,"à avaliar"
-29,116,10054,1993,1,4,5,136,282,1,0,0.14,0.08,469823,433179,37162,32191,0.53,1,0.29,0.81,0.93,0.86,0.83,0.83,1,0.60,"à avaliar"
+"platform","water_depth","weight","installation_date","type_of_production (1 oil and gas; 2 oil; 3 gas)","number_of_legs","number_of_piles","height_of_jacket_or_sub-structure","distance_to_coast","risk_to_other_users-complete" ,"risk_to_other_users-partial","risk_to_personnel-complete","risk_to_personnel-partial","energy_consumption-complete","energy_consumption-partial","emissions-complete","emissions-partial","impacts_of_option-complete","impacts_of_option-partial","technical_feasibility_or_challenge-complete","technical_feasibility_or_challenge-partial","commercial_impact_on_fisheries-complete","commercial_impact_on_fisheries-partial","wider_community_impact-complete","wider_community_impact-partial","total_removal_cost-complete","total_removal_cost-partial"
+1,99,22000,1988,1,8,8,114,187,1,0,0.29,0.12,1110100,817000,87000,58500,0.43,1,0,1,0.79,0.78,0.5,0.5,1,0.56
+2,112,30364,1983,1,8,9,123,207,1,0,0.32,0.16,1180500,895500,92000,64000,0.51,1,0,1,0.79,0.78,0.5,0.5,1,0.56
+20,141,15561,1978,2,8,26,147,120,0,0.000025,0.025,0.010,297654,530148,24277,31064,0.66,1,0.25,1,1.0,0.94,1.0,1.0,1,0.54
+25,156,27647,1980,2,8,32,166,240,0,0.000015,0.04,0.02,487750,570818,40416,45266,0.53,1,0.64,1,1.0,0.66,1.0,1.0,1,0.57
+26,103,18584,1983,3,8,20,122.5,230,0,0.000000078,0.09,0.06,733082,511765,59588,41170,0.53,1,0.39,0.15,1.0,0.99,1.0,1.0,1,0.73
+27,144,17500,1983,3,8,20,154,130,0,0.00001335933333,0.14,0.13,520000,568000,42000,44000,0.53,1,0.45,0.7,1.0,1.0,1.0,1.0,1,0.66
+29,116,10054,1993,1,4,5,136,282,1,0,0.14,0.08,469823,433179,37162,32191,0.53,1,0.29,0.81,0.93,0.86,0.83,0.83,1,0.60

@@ -1,7 +1,7 @@
 platform,water_depth,weight,installation_date,type_of_production (1 oil and gas; 2 oil; 3 gas),number_of_legs,number_of_piles,height_of_jacket_or_sub-structure,distance_to_coast,risk_to_other_users-complete ,risk_to_personnel-complete,risk_to_personnel-partial,energy_consumption-complete,energy_consumption-partial,emissions-complete,emissions-partial,impacts_of_option-complete,technical_feasibility_or_challenge-complete,technical_feasibility_or_challenge-partial,commercial_impact_on_fisheries-complete,commercial_impact_on_fisheries-partial,wider_community_impact-complete,wider_community_impact-partial,total_removal_cost-partial
 1.0,99.0,22000.0,1988.0,1.0,8.0,8.0,114.0,187.0,1.0,0.29,0.12,1110100.0,817000.0,87000.0,58500.0,0.43,0.0,1.0,0.79,0.78,0.5,0.5,0.56
 2.0,112.0,30364.0,1983.0,1.0,8.0,9.0,123.0,207.0,1.0,0.32,0.16,1180500.0,895500.0,92000.0,64000.0,0.51,0.0,1.0,0.79,0.78,0.5,0.5,0.56
-20.0,141.0,15561.0,1978.0,2.0,8.0,26.0,147.0,120.0,0.0,0.025,0.01,297654.0,530148.0,24277.0,31064.0,0.66,0.25,1.0,1.0,0.94,1.0,1.0,0.54
+20.0,141.0,15561.0,1978.0,2.0,8.0,26.0,147.0,120.0,0.0,0.025,0.01,297654.0,530148.0,24277.0,31064.0,0.66,0.25,1.0,1.0,0.94,1.0,1.0,0.53
 25.0,156.0,27647.0,1980.0,2.0,8.0,32.0,166.0,240.0,0.0,0.04,0.02,487750.0,570818.0,40416.0,45266.0,0.53,0.64,1.0,1.0,0.66,1.0,1.0,0.57
 26.0,103.0,18584.0,1983.0,3.0,8.0,20.0,122.5,230.0,0.0,0.09,0.06,733082.0,511765.0,59588.0,41170.0,0.53,0.39,0.15,1.0,0.99,1.0,1.0,0.73
 27.0,144.0,17500.0,1983.0,3.0,8.0,20.0,154.0,130.0,0.0,0.14,0.13,520000.0,568000.0,42000.0,44000.0,0.53,0.45,0.7,1.0,1.0,1.0,1.0,0.66
